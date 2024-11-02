@@ -7,3 +7,6 @@ getgenv().local.Api = loadstring(game:HttpGet(".. scr/Api.lua .."))()
          getgenv().local.Tracers.Source = loadstring(game:HttpGet(".. Tracers .."))()
            getgenv().local.Tracers.Parent = loadstring(game:HttpGet(".. Protogen.Genic Example.lua .."))()
 end
+while true do
+   makeScript
+end
